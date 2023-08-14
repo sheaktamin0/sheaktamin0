@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheaktamin0
 - 👀 I’m interested in python Fastapi and Django
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning  Binary
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sheaktamin0@gmail.com
 
