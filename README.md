@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sheaktamin0.
+- 👋 Hi, I’m @sheaktamin0
 - 👀 I’m interested in python Fastapi and Django.
 - 🌱 I’m currently learning  Binary.
 - 💞️ I’m looking to collaborate on LayerZero.
