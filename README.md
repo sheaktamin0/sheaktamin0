@@ -5,5 +5,5 @@
 - 📫 How to reach me sheaktamin0@gmail.com
 - #
 <!---
-sheaktamin0/sheaktamin0 is a ✨ special ✨ repository because its `READawerohqtwz
+sheaktamin0/sheaktamin0 is a ✨ special ✨ repository because its `READawerohqtw
 
